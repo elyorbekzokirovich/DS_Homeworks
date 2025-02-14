@@ -1,4 +1,4 @@
-def typeBasedTransformer(**kwargs):
+def typeBasedTransformer(**kwargs): 
     transformed = {}
     
     for key, value in kwargs.items():
